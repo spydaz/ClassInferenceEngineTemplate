@@ -8,12 +8,12 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ClassInferenceEngineTemplate")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("ClassInferenceEngineTemplate")> 
-<Assembly: AssemblyCopyright("Copyright ©  2018")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTitle("ClassInferenceEngineTemplate")>
+<Assembly: AssemblyDescription("Inference Engine Paradigm Template - AI StartPoint Template")>
+<Assembly: AssemblyCompany("SpydazWebAI")>
+<Assembly: AssemblyProduct("SpydazWebAI ClassInferenceEngineTemplate")>
+<Assembly: AssemblyCopyright("SpydazWebAI Copyright ©  2018")>
+<Assembly: AssemblyTrademark("SpydazWebAI TM ©  2018")>
 
 <Assembly: ComVisible(False)>
 
